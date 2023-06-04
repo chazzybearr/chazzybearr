@@ -1,4 +1,11 @@
-### Hi there 👋
+## hello i am chazzybearr
+\> leon cai  
+\> lives in canada  
+\> canada  
+\> university of toronto  
+\> cs spec  
+\> plays pump it up  
+
 
 <!--
 **chazzybearr/chazzybearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
